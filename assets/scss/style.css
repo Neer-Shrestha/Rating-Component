@@ -93,7 +93,9 @@ ul {
   background-color: var(--clr-dark-blue);
   padding: 1.5rem;
   border-radius: 1.5rem;
-  width: 400px;
+  max-width: 400px;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 .rating-card {
